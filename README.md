@@ -1,9 +1,11 @@
 # Marine Video Kit: A New Marine Video Dataset for Content-based Analysis and Retrieval 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/marine-video-kit-a-new-marine-video-dataset/retrieval-on-mvk)](https://paperswithcode.com/sota/retrieval-on-mvk?p=marine-video-kit-a-new-marine-video-dataset)
+
 **[Marine Video Kit: A New Marine Video Dataset for Content-based Analysis and Retrieval](https://hkust-vgd.github.io/marinevideokit/)** <br>
 Quang-Trung Truong, Tuan-Anh Vu, Tan-Sang Ha, Jakub Lokoč, Yue Him Wong Tim, Ajay Joneja, Sai-Kit Yeung <br>
 Oral presentation in MMM2023
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/marine-video-kit-a-new-marine-video-dataset/retrieval-on-mvk)](https://paperswithcode.com/sota/retrieval-on-mvk?p=marine-video-kit-a-new-marine-video-dataset)
 
 This is an implementation for Known-item Search algorithm. We released Marine Video Kit dataset.
 For the details, please check the [paper.](https://arxiv.org/pdf/2209.11518.pdf) 
